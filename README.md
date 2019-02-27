@@ -24,3 +24,4 @@ That way, when we are looking at bottles of wines in stores, we would know wheth
 1. Visually explored the data using K_Means, GMM and Agglomerative clustering
 1. Normalized the data in the important feature columns
 1. Again visually explored the dataset and found some correlations between the normalized price and points
+1. Ran GMM on the dataset, and compared with K_Means. Found correlation between price and province. 
