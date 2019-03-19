@@ -1,0 +1,575 @@
+,Winery,Region,Ratings,Number of Reviews,Yelp Dollar Signs
+0,Kunde,Sonoma County,4.5,522,$$
+1,Sterling,Calistoga,3.5,1291,$$
+2,J. Lohr,Monterey County,4,191,$$
+3,Bernat,Santa Barbara County,5,1,
+4,Morgan,Monterey County,4,49,$$
+5,Prime Solum,Napa Valley,5,6,$$
+6,Castello di Amorosa,Napa Valley,4,3443,$$
+7,Trombetta,Sonoma Coast,5,1,
+8,Whitcraft,Santa Ynez Valley,4,33,$$$
+9,Solis,Santa Clara Valley,3.5,90,$$
+10,Fogline Vineyards,Sonoma Coast,5,66,$$
+11,Amici,Napa Valley,3.5,400,$$
+12,Apsara,Napa Valley,,,
+13,Failla,Sonoma Coast,4.5,100,$$
+14,Paul Mathew,Russian River Valley,4,26,$$
+15,Anglim,Paso Robles,4.5,39,$$
+16,Merriam,Russian River Valley,4.5,39,$$
+17,Rally Point Wines,Sonoma Valley,,,
+18,VGS Chateau Potelle,Sonoma County,4.5,42,$$$
+19,Carol Shelton,Sonoma Coast,5,43,$$
+20,Wattle Creek,Alexander Valley,5,3,$$
+21,Ridge,Paso Robles,4.5,41,
+22,La Sirena,Calistoga,4.5,5,$$$$
+23,Davies,Howell Mountain,4.5,18,$$
+24,B.R. Cohn,Carneros,4,273,$$
+25,Fogline Vineyards,Russian River Valley,5,66,$$
+26,Cinnabar,Santa Lucia Highlands,5,9,$$
+27,Ramey,Russian River Valley,4.5,11,$$
+28,Hill Family Estate,Napa Valley,4.5,145,$$
+29,Estancia,Monterey County,,,
+30,Summerland,Santa Ynez Valley,4,522,$$
+31,Sonoma-Cutrer,Sonoma Coast,4,78,$$
+32,Heringer,Clarksburg,4.5,56,$$
+33,Francis Ford Coppola,Sonoma County,4,767,$$
+34,Black Coyote,Napa Valley,,,
+35,Rideau,Sta. Rita Hills,4,327,$$
+36,Tensley,Santa Barbara County,4,33,$$
+37,Cerro Prieto,Paso Robles,5,1,
+38,Sculpterra,Central Coast,4.5,254,$$
+39,Ancien,Sonoma Mountain,5,4,
+40,Paul Hobbs,Sonoma Mountain,4,21,$$$
+41,Longoria,Santa Maria Valley,4,60,$$
+42,Pahlmeyer,Sonoma Coast,5,2,$$$$
+43,Morse,El Dorado,4.5,23,$$
+44,Turley,Amador County,3.5,52,$$
+45,Kivelstadt Cellars,Sonoma Valley,5,26,$$
+46,Pali,Sonoma County,3.5,2,
+47,Transcendence,Central Coast,5,9,$$
+48,Carlson,Santa Ynez Valley,,,
+49,MacRostie,Russian River Valley,4.5,147,$$
+50,Harmony Cellars,Paso Robles,4.5,109,$$
+51,Reynoso,Alexander Valley,5,2,
+52,Apriori,Sonoma Coast,5,3,
+53,August Ridge,Paso Robles,4.5,28,$$
+54,Deerfield Ranch,Sonoma Valley,4.5,138,$$
+55,Benaddiction,California,4,735,$$
+56,Urban Legend,Clarksburg,4.5,96,$$
+57,Walt,Carneros,4,125,$$
+58,Signorello,Napa Valley,4,140,$$
+59,Joseph Cellars,Carneros,5,22,$$
+60,Zaca Mesa,Santa Maria Valley,4,171,$$
+61,Barton,Sta. Rita Hills,,,
+62,Eleven Eleven,Russian River Valley,4.5,29,$$$
+63,Girard,Napa Valley,4.5,271,$$
+64,Puccioni,Dry Creek Valley,,,
+65,Lepe,Arroyo Seco,,,$
+66,Rock Wall,Clarksburg,4,492,$$
+67,Jamie Slone Wines,Santa Barbara County,4.5,126,$$
+68,Vezer Family Vineyard,Suisun Valley,4.5,85,$$
+69,Geyser Peak,Sonoma County,4,15,$$
+70,Windy Oaks,Santa Cruz Mountains,4,41,$$$
+71,Together,Napa Valley,2,6,$$$
+72,Trinitas,Rutherford,4.5,181,$$
+73,Brander,Santa Barbara County,4,117,$$
+74,Maldonado,Napa Valley,3.5,20,$$
+75,Freeman,Sonoma Coast,5,22,$$
+76,Medlock Ames,Russian River Valley,4.5,129,$$
+77,Tank Garage,Sonoma County,4,123,$$
+78,Kenneth Volk,Santa Maria Valley,4.5,51,$$
+79,Buena Vista,Alexander Valley,4,358,$$
+80,Cima Collina,Monterey County,4.5,44,$$
+81,Bougetz,Napa Valley,5,1,
+82,Signorello,Carneros,4,140,$$
+83,Passaggio,Russian River Valley,4.5,37,$$
+84,Emeritus,Sonoma Coast,4.5,32,$$
+85,Gallegos,Napa Valley,5,5,
+86,Bennett Lane,Napa Valley,4.5,119,$$
+87,Rock Wall,Napa Valley,4,492,$$
+88,Envy,Calistoga,4.5,98,$$
+89,Venge,Calistoga,5,50,$$
+90,Stuhlmuller Vineyards,Russian River Valley,4,32,$$
+91,Fetzer,Napa Valley,,,
+92,Merryvale,Napa Valley,4,217,$$
+93,Sbragia,Howell Mountain,5,11,
+94,Silver Trident,Napa Valley,5,50,$$
+95,Robert Hall,Paso Robles,4,126,$$
+96,Blair,Arroyo Seco,4.5,27,$$
+97,Hess Collection,Napa Valley,4,366,$$
+98,Honig,St. Helena,4.5,311,$$
+99,Rendarrio Vineyards,Santa Lucia Highlands,5,4,$$
+100,Frequency,Santa Barbara County,5,23,$$
+101,Davis Estates,Napa Valley,5,29,$$$
+102,Dilecta,Paso Robles,5,20,
+103,Seven Oxen,Paso Robles,5,8,
+104,Edna Valley Vineyard,Santa Lucia Highlands,4,158,$$
+105,Iron Hub,Amador County,4.5,33,$$
+106,Gainey,Santa Ynez Valley,4,332,$$
+107,Blue Rock,Sonoma Coast,5,1,
+108,Raymond,Calistoga,4,330,$$
+109,Alta,Napa Valley,5,1,$$$
+110,Reata,Central Coast,,,
+111,Hawley,Alexander Valley,4.5,54,$$
+112,Dubost,Paso Robles,4.5,35,$$
+113,Rusack,Santa Maria Valley,4,153,$$
+114,Wilson,Alexander Valley,4,122,$$
+115,Portfolio,Napa Valley,,,
+116,Carol Shelton,Carneros,5,43,$$
+117,Chasseur,Russian River Valley,5,1,
+118,Chateau Montelena,Calistoga,4,506,$$$
+119,Darms Lane,Napa Valley,5,1,
+120,Halleck,Sonoma Coast,5,35,$$$
+121,Jamie Slone Wines,Santa Ynez Valley,4.5,126,$$
+122,VinRoc,Napa Valley,5,1,$$
+123,Monticello Vineyards,Napa Valley,4,103,$$
+124,Saddleback,Calistoga,4.5,61,$$
+125,Sheldon,Napa Valley,5,17,$$
+126,Calcareous,Paso Robles,4.5,248,$$
+127,Liquid Farm,Santa Maria Valley,5,5,
+128,Davies,Carneros,4.5,18,$$
+129,Acorn,Russian River Valley,5,10,
+130,AuburnJames,Napa Valley,4.5,16,$$$
+131,Chronic Cellars,Central Coast,4,175,$$
+132,Kokomo,Alexander Valley,4.5,100,$$
+133,Preston,Dry Creek Valley,4,158,$$
+134,Westerly,Sta. Rita Hills,5,1,
+135,Barber,Alexander Valley,5,21,$$
+136,Carol Shelton,Sonoma County,5,43,$$
+137,La Sirena,Napa Valley,4.5,5,$$$$
+138,Laura Michael,Dry Creek Valley,4.5,61,$$
+139,Gundlach Bundschu,Sonoma Coast,4,497,$$
+140,Pomar Junction,Paso Robles,4.5,64,$$
+141,Maldonado,Sonoma County,3.5,20,$$
+142,Jericho Canyon Vineyard,Napa Valley,5,16,$$
+143,White Rock Vineyards,Napa Valley,5,50,$$
+144,Steele,Santa Barbara County,,,
+145,August Briggs,Sonoma Valley,4,100,$$
+146,Cuvaison,Napa Valley,4,270,$$
+147,Acacia,Russian River Valley,4,104,$$$
+148,Wild Horse,Santa Maria Valley,4,74,$$
+149,Lamborn Family Vineyards,Howell Mountain,,,
+150,Trinchero,St. Helena,4.5,92,$$$
+151,Grgich Hills,Calistoga,4,505,$$
+152,Ballentine,St. Helena,4.5,45,$$
+153,Ravenswood,Sonoma Mountain,4,385,$$
+154,Square Peg,Russian River Valley,5,22,
+155,Phipps,Dry Creek Valley,,,
+156,Spellbound,Napa Valley,,,
+157,Longoria,Santa Ynez Valley,4,60,$$
+158,Neyers,Napa Valley,4.5,10,$$
+159,Spann Vineyards,Sonoma Valley,5,9,$$
+160,Summerland,Santa Barbara County,4,522,$$
+161,Jax,Russian River Valley,4,6,$$
+162,Corley,Napa Valley,4,103,$$
+163,Phifer Pavitt,Napa Valley,4.5,8,$$$
+164,Estancia,Paso Robles,,,
+165,Forchini,Dry Creek Valley,4.5,29,$$
+166,Lost Blues,Santa Maria Valley,5,2,
+167,Rare,California,4.5,66,$
+168,Rodney Strong,Sonoma Coast,4,188,$$
+169,Rusack,Ballard Canyon,4,153,$$
+170,Hyde de Villaine,Carneros,4,20,$$$
+171,Patz & Hall,Sonoma Coast,4.5,54,$$$
+172,Cinnabar,Santa Cruz Mountains,4.5,237,
+173,Auriga,El Dorado,5,8,$$
+174,Mayo,Russian River Valley,4.5,152,$$
+175,J Wilkes,Santa Maria Valley,4.5,11,$$
+176,Ken Brown,Santa Barbara County,4.5,16,$$
+177,Cosentino,Napa Valley,4.5,280,$$
+178,Cru,Santa Maria Valley,5,60,
+179,Whitehall Lane,Napa Valley,4,232,$$
+180,Alysian,Dry Creek Valley,5,6,$$
+181,Hall,Alexander Valley,4,532,$$
+182,Brecon Estate,Central Coast,4,86,$$
+183,Work,Calistoga,5,11,
+184,Muscardini,Napa Valley,4.5,67,$$
+185,Eagle Eye,Napa Valley,5,6,$$
+186,Pellegrini,Russian River Valley,4.5,57,$$
+187,Pech Merle,Russian River Valley,4.5,43,$$
+188,Sojourn,Russian River Valley,4,59,$$
+189,Pence Ranch,Santa Barbara County,4.5,36,$$
+190,Koehler,Santa Ynez Valley,4,110,$$
+191,Miller Wine Works,El Dorado,2.5,19,$$
+192,Onward,Suisun Valley,5,1,
+193,Pestoni Family,Rutherford,4.5,51,$$
+194,Jamie Slone Wines,Santa Maria Valley,4.5,126,$$
+195,White Oak,Napa Valley,4,56,$$
+196,Summerland,Sta. Rita Hills,4,140,$$
+197,Inspiration,Russian River Valley,4.5,28,$$
+198,Brophy Clark,Paso Robles,,,
+199,WesMar,Sonoma Coast,,,
+200,Nickel & Nickel,Napa Valley,4.5,115,$$$
+201,Merriam,Dry Creek Valley,4.5,39,$$
+202,Robert Biale,Sonoma Valley,4.5,114,$$
+203,Ken Brown,Santa Maria Valley,4.5,16,$$
+204,Cameron Hughes,Sonoma Valley,3.5,23,$$
+205,Chamisal Vineyards,Central Coast,4,103,$$
+206,Blackjack,Sta. Rita Hills,3.5,85,$$
+207,Curran,Santa Ynez Valley,5,6,$$
+208,Grgich Hills,Yountville,4,505,$$
+209,Joseph Jewell,Dry Creek Valley,5,24,$$
+210,J. Rickards,Russian River Valley,5,87,$$
+211,Standing Sun,Santa Barbara County,5,2,$$
+212,Ojai,Santa Barbara County,4,9,
+213,Rocca,Napa Valley,4.5,7,$$
+214,Hovey,El Dorado,4.5,46,$$
+215,Guglielmo,Santa Clara Valley,4,185,$$
+216,Lucas & Lewellen,Santa Maria Valley,3.5,196,$$
+217,Santa Cruz Mountain Vineyard,Santa Cruz Mountains,4,28,$$
+218,Spann Vineyards,Sonoma County,5,9,$$
+219,Mazzocco,Russian River Valley,4.5,170,$$
+220,Siduri,Sonoma Coast,4,23,$$
+221,Castello di Amorosa,Rutherford,4,3443,$$
+222,Dierberg,Sta. Rita Hills,4.5,98,$$
+223,Benovia,Sonoma Coast,4.5,41,$$$
+224,Arcadian,Santa Maria Valley,5,16,$$$
+225,Trinitas,Carneros,4.5,181,$$
+226,Wilson,Sonoma County,4,122,$$
+227,Gundlach Bundschu,Sonoma County,4,497,$$
+228,Signorello,Sonoma Coast,4,140,$$
+229,Glunz,Paso Robles,5,64,$$
+230,Chateau Lettau,Santa Lucia Highlands,4.5,43,$$
+231,Arndt,Paso Robles,5,1,
+232,Clif Family,Napa Valley,4.5,185,$$
+233,Montemaggiore,Dry Creek Valley,4.5,13,$$
+234,Parrish Family,Paso Robles,5,55,$$
+235,Limerick Lane,Sonoma Valley,4.5,54,$$
+236,Boheme,Russian River Valley,5,6,$$$
+237,Newton,Napa Valley,4.5,52,$$$
+238,Joullian,Santa Lucia Highlands,4.5,67,$$
+239,Herzog,Napa Valley,5,44,
+240,Pianetta,Central Coast,4.5,52,$$
+241,Stanger,Paso Robles,4.5,4,$$
+242,Stony Hill,Napa Valley,5,26,$$$
+243,Papapietro Perry,Sonoma Coast,4,94,$$$
+244,Jason-Stephens,Santa Cruz Mountains,3.5,111,$$
+245,Casa Nuestra,Napa Valley,4,61,$$
+246,Kendall-Jackson,Alexander Valley,4.5,357,$$
+247,Avalon,California,4,44,$$
+248,Sterling,California,4.5,29,
+249,Fritz,Russian River Valley,4,72,$$
+250,MacMurray Ranch,Russian River Valley,5,4,
+251,Edna Valley Vineyard,Paso Robles,4,158,$$
+252,VGS,Napa Valley,4.5,42,$$$
+253,Davies,Sonoma Coast,4.5,18,$$
+254,Hoopla,Napa Valley,,,
+255,Sebastiani,Sonoma Valley,3.5,275,$$
+256,Korbel,Russian River Valley,4,434,$$
+257,Baehner Fournier,Santa Ynez Valley,,,
+258,Rowland,Yountville,,,
+259,Hoopla,Yountville,,,
+260,Artesa,Napa Valley,4,1308,$$
+261,Landmark,Sonoma County,4,118,$$
+262,Saxon Brown,Sonoma County,,,
+263,Kastania,Sonoma County,5,111,$$
+264,Talbott,Monterey County,4,104,$$
+265,Tom Gore,Alexander Valley,4.5,5,
+266,Zinke,Santa Barbara County,4,55,$$
+267,Diamond Creek,Diamond Mountain District,4.5,13,$$$$
+268,Picayune,Napa Valley,5,20,$$
+269,Three Sticks,Russian River Valley,4.5,34,$$$
+270,Sojourn,Rutherford,4,59,$$
+271,Aperture,Alexander Valley,5,2,
+272,Bonny Doon,Monterey County,,,
+273,Davies,Calistoga,4.5,18,$$
+274,Santa Barbara Winery,Ballard Canyon,4,353,$$
+275,Amici,Rutherford,5,9,$$
+276,Ampelos,Santa Ynez Valley,4.5,32,$$
+277,Conn Creek,Diamond Mountain District,4.5,129,$$
+278,Buena Vista,Sonoma Mountain,4,358,$$
+279,Robert Craig,Napa Valley,4.5,48,$$
+280,Hunt Cellars,Sta. Rita Hills,4,76,$$
+281,Ravenswood,Sonoma County,4,385,$$
+282,Overland,Sonoma County,4.5,15,$$$$
+283,Wilson,Rockpile,4,1750,$$
+284,Ambrose,California,3.5,3,
+285,Pedroncelli,Russian River Valley,4.5,60,$$
+286,Foundry,Napa Valley,5,9,$
+287,Trinchero,Napa Valley,4.5,92,$$$
+288,Carica,Sonoma County,5,4,$$
+289,Hunnicutt,Rutherford,4.5,16,$$
+290,Hoopes,Napa Valley,5,1,
+291,Havens,Napa Valley,4.5,8,$$$
+292,Toad Hollow,Russian River Valley,4,118,$
+293,Noceto,Amador County,4,98,$$
+294,Amici,Sonoma County,5,9,$$
+295,Benziger,Sonoma Mountain,4.5,490,$$
+296,Manzanita Creek,Alexander Valley,4.5,9,$$
+297,Sergio,Napa Valley,4.5,80,
+298,Sabina Vineyards,St. Helena,5,1,$$$
+299,Stolpman,Santa Ynez Valley,4.5,116,$$
+300,Hudson Vineyards,Carneros,5,2,
+301,Rideau,Santa Maria Valley,4,327,$$
+302,V. Sattui,Dry Creek Valley,4,3433,$$
+303,Bridlewood,Sta. Rita Hills,4,293,$$
+304,Holdredge,Sonoma Coast,4,10,$$
+305,Minassian-Young,Paso Robles,4.5,35,$$
+306,Rusack,Sta. Rita Hills,4,153,$$
+307,Bell,Yountville,4.5,104,$$
+308,Deerfield,Sonoma Valley,4.5,138,$$
+309,Carr,Santa Barbara County,4.5,148,$$
+310,Joyce,Sta. Rita Hills,4,149,$$
+311,Trinitas,El Dorado,4,5,
+312,Andretti,Napa Valley,3.5,270,$$
+313,Babcock,Santa Barbara County,4.5,108,$$
+314,Hall,Diamond Mountain District,4,532,$$
+315,Pedroncelli,Sonoma County,4.5,60,$$
+316,Roblar,Santa Ynez Valley,4,260,$$
+317,Trombetta,Russian River Valley,1,1,
+318,Bella,Russian River Valley,4.5,317,$$
+319,Chimere,Edna Valley,,,
+320,Phantom Rivers,Paso Robles,4,22,$$
+321,Equinox,Santa Clara Valley,3.5,286,$$$
+322,Ernest,Sonoma Coast,,,
+323,Harrison Clarke,Ballard Canyon,5,5,$$
+324,Mira,Napa Valley,,,
+325,Rideau,Santa Barbara County,4,327,$$
+326,Alpha Omega,Napa Valley,4,689,$$$
+327,Kaena,Santa Ynez Valley,4.5,33,$$
+328,Sandhi,Sta. Rita Hills,4.5,2,
+329,M2,Amador County,3,2,$
+330,Robert Biale,Carneros,4.5,114,$$
+331,Paradise Ridge,Russian River Valley,4,105,$$
+332,Saddleback,Napa Valley,4.5,61,$$
+333,Midsummer Cellars,St. Helena,5,1,$$
+334,Backstage Winery,Napa Valley,4.5,102,$$
+335,Calla Lily,Carneros,3,4,
+336,Levendi,Russian River Valley,,,
+337,Margerum,Ballard Canyon,5,2,
+338,Rarecat,Calistoga,,,
+339,Willowbrook,Russian River Valley,,,
+340,Manzanita Creek,Russian River Valley,4.5,9,$$
+341,Artesa,Rutherford,4,1308,$$
+342,Deep Sea,Santa Barbara County,4.5,362,$$
+343,Vino Vargas,Paso Robles,4.5,4,$$
+344,Flanagan,Russian River Valley,5,3,$$$
+345,Wilson,Russian River Valley,4,122,$$
+346,Feist,El Dorado,4.5,20,$$
+347,Gary Farrell,Sonoma Valley,4,167,$$$
+348,Falcor,Napa Valley,4.5,59,$$
+349,Carmel Road,Arroyo Seco,4.5,15,$$
+350,Saucelito Canyon,Arroyo Grande Valley,4.5,126,$$
+351,Roblar,Santa Barbara County,4,260,$$
+352,Passaggio,Sonoma County,4.5,37,$$
+353,Krutz,Sonoma Coast,5,2,$$
+354,August Briggs,Sonoma County,4,100,$$
+355,Amici,Russian River Valley,5,9,$$
+356,Bryter,Sonoma Coast,,,
+357,Left Bend,Santa Clara Valley,5,36,$$
+358,Steele,Carneros,4,270,$$
+359,Windemere,Edna Valley,,,
+360,Antica,Napa Valley,5,7,$$$
+361,Rexford,Santa Cruz Mountains,4,26,$$
+362,Buttonwood Farm,Santa Ynez Valley,4,157,$$
+363,Twisted,California,2,5,$$$$
+364,Talisman,Napa Valley,4.5,33,$$$
+365,Clos du Lac,Amador County,2,1,
+366,Kastania,Sonoma Coast,5,111,$$
+367,Rutherford Hill,Rutherford,,316,$$
+368,Lynmar,Sonoma County,4,189,$$$
+369,Ramey,Carneros,4.5,11,$$
+370,Potek,Santa Barbara County,4.5,25,$$
+371,Young Inglewood,St. Helena,4,5,$$$
+372,Young Inglewood,Napa Valley,4,5,$$$
+373,Elyse,Napa Valley,4.5,103,$$
+374,Lumen,Santa Maria Valley,,,
+375,Phantom Rivers,Edna Valley,4,22,$$
+376,Mill Creek,Dry Creek Valley,4,51,$$
+377,Ledson,Sonoma Valley,4.5,23,$$$
+378,Macchia,Amador County,4,97,$$
+379,Potek,Sta. Rita Hills,4.5,25,$$
+380,August Briggs,Napa Valley,4,100,$$
+381,Elkhorn Peak,Napa Valley,5,11,$$
+382,Clos Pegase,Napa Valley,4,212,$$
+383,Verdad,Edna Valley,4.5,4,
+384,Arcadian,Santa Ynez Valley,5,16,$$$
+385,Beltane Ranch,Sonoma Valley,4.5,68,
+386,Cakebread,Carneros,4,710,$$
+387,Angeline,Sonoma County,4,4023,$$
+388,Mahoney,Carneros,,,
+389,Saint Helena Winery,St. Helena,4.5,7,$$
+390,Perry Creek,El Dorado,4,43,$$
+391,Carlisle,Sonoma Mountain,4,2,
+392,Saxon Brown,Carneros,,,
+393,Sojourn,Napa Valley,4,59,$$
+394,HdV,Carneros,5,2,$$$
+395,Failla,Napa Valley,4.5,100,$$
+396,Landmark,Santa Maria Valley,4.5,4,
+397,Hearst Ranch,Central Coast,5,5,$$
+398,B Cellars,Sonoma County,5,127,$$
+399,Sterling,Napa Valley,3.5,1291,$$
+400,Benovia,Sonoma County,4.5,41,$$$
+401,Joseph Cellars,Napa Valley,5,22,$$
+402,Anglim,Central Coast,4.5,39,$$
+403,Larner,Ballard Canyon,4.5,19,$$
+404,Vermeil,Russian River Valley,3.5,53,$$
+405,Seven Angels,Central Coast,5,6,
+406,WCP,Paso Robles,,,
+407,Margerum,Santa Ynez Valley,5,2,
+408,Landmark,Carneros,,,
+409,De Novo,Alexander Valley,4,69,$$
+410,Tara Bella,Russian River Valley,5,40,$$$
+411,Buehler,St. Helena,5,35,$$
+412,Balletto,Sonoma Coast,4.5,139,$$
+413,Sbragia,Napa Valley,5,11,
+414,Babcock,Santa Maria Valley,4.5,108,$$
+415,Ravenswood,Alexander Valley,4,385,$$
+416,Emeritus,Russian River Valley,4.5,32,$$
+417,Black Stallion,Howell Mountain,4,310,$$
+418,Honig,Rutherford,4.5,311,$$
+419,Pfendler,Sonoma Coast,,,
+420,J Vineyards & Winery,Sonoma Coast,4,373,$$$
+421,Galvan,Howell Mountain,5,8,$$
+422,St. Francis,California,5,1,
+423,Kings Mountain,Santa Cruz Mountains,4.5,11,
+424,Bianchi,Central Coast,4,117,$$
+425,Larner,Santa Barbara County,4.5,19,$$
+426,Landmark,Russian River Valley,4,118,$$
+427,Provenance Vineyards,Napa Valley,4,218,$$
+428,Sonora,Amador County,5,18,$
+429,Alexander Valley Vineyards,Sonoma County,4.5,98,$$
+430,Rancho Maria,Dry Creek Valley,4.5,52,$$
+431,Hawk and Horse Vineyards,Napa Valley,4,5,$$
+432,Hindsight,Napa Valley,4,1,
+433,Ledson,Russian River Valley,4,430,$$
+434,Sbragia,Alexander Valley,4,129,$$
+435,Feliz Noche,Santa Barbara County,5,6,
+436,Provenance Vineyards,Yountville,4,218,$$
+437,Rock Wall,Sonoma Valley,4,492,$$
+438,Wente,Arroyo Seco,,,
+439,Francis Ford Coppola,Sonoma Coast,4,767,$$
+440,Conn Creek,Rutherford,4.5,129,$$
+441,Cordant,Paso Robles,5,14,
+442,Sierra Vista,El Dorado,4.5,32,$$
+443,Napa Cellars,Carneros,4,256,$
+444,Hess,California,5,2,
+445,Barnett,Napa Valley,4.5,54,$$
+446,Ravenswood,Russian River Valley,4,385,$$
+447,Alderbrook,Sonoma County,4.5,41,
+448,Raymond,Yountville,4,330,$$
+449,Kelleher,Napa Valley,5,1,
+450,Signorello,Russian River Valley,4,140,$$
+451,Foundry,California,4.5,15,$$
+452,Martin Ray,Diamond Mountain District,4.5,57,$$
+453,Pessagno,Santa Lucia Highlands,4,48,$$
+454,Venteux,Paso Robles,4.5,61,$$
+455,Bell,Rutherford,4.5,104,$$
+456,Caliza,Central Coast,4.5,41,$$$
+457,Uvaggio,Carneros,4,1,
+458,Deering,Sonoma Valley,,,
+459,Ravenswood,Dry Creek Valley,4,385,$$
+460,Somerston,Napa Valley,4.5,8,$$
+461,McIlroy,Russian River Valley,5,1,
+462,Lyeth,Sonoma County,,,
+463,Wolff,Central Coast,4.5,173,$$
+464,Claiborne & Churchill,Central Coast,4.5,84,$$
+465,Martin Ray,Napa Valley,4.5,57,$$
+466,Treana,Paso Robles,4.5,79,$$
+467,Varozza,St. Helena,5,6,
+468,Ballentine,Calistoga,4.5,45,$$
+469,Jean Edwards,Napa Valley,5,10,$$
+470,Whalebone,Paso Robles,4.5,123,$$
+471,Work,Napa Valley,4.5,34,$$
+472,Myka,Santa Cruz Mountains,,,
+473,Shale Oak,Paso Robles,4.5,80,$$
+474,Olson Ogden,Napa Valley,,,
+475,Laird,Carneros,4.5,128,$$
+476,Ventana,Monterey County,4.5,8,$$
+477,Tobin James,Paso Robles,4.5,622,$$
+478,Envolve,Russian River Valley,,,
+479,B Cellars,Rutherford,5,127,$$
+480,Amizetta,Napa Valley,5,33,$$$
+481,Conarium,Sta. Rita Hills,,,
+482,Margerum,Central Coast,5,2,
+483,Tolosa,Central Coast,4,231,$$
+484,Sutro,Alexander Valley,,,
+485,Epiphany,Napa Valley,5,15,
+486,Cakebread,Napa Valley,4,710,$$
+487,Jaffurs,Sta. Rita Hills,4.5,53,$$
+488,Walt,Sonoma Coast,4,125,$$
+489,Puma Road,Santa Lucia Highlands,4.5,19,$$
+490,Lost Blues,Paso Robles,5,2,
+491,Willowbrook,Sonoma Mountain,4.5,25,$
+492,Hoopes,Carneros,5,1,
+493,Meadowcroft,Sonoma Valley,4.5,95,$$
+494,Chandon,Yountville,3.5,1308,$$
+495,McIntyre Vineyards,Arroyo Seco,4.5,22,$$
+496,Neyers,Russian River Valley,4.5,10,$$
+497,Muscardini,Sonoma County,4.5,67,$$
+498,Sebastiani,Sonoma County,3.5,275,$$
+499,Meeker,Sonoma County,4.5,44,$$
+500,Clos Pepe,Sta. Rita Hills,5,40,$$
+501,Mira,Carneros,4.5,39,
+502,Ampelos,Santa Barbara County,4.5,32,$$
+503,August Briggs,Carneros,4,100,$$
+504,Tooth and Nail,Paso Robles,4.5,219,$$
+505,Frequency,Sta. Rita Hills,5,23,$$
+506,Terra Valentine,Napa Valley,5,3,$$$
+507,Solitary Cellars,California,5,28,$$
+508,Bartholomew Park,Sonoma Valley,4,187,$$
+509,Miro,Dry Creek Valley,5,6,
+510,Miller Wine Works,Amador County,2.5,19,$$
+511,Davis Estates,Rutherford,5,29,$$$
+512,Shippey,Dry Creek Valley,5,1,
+513,Talisman,Sonoma Mountain,4.5,33,$$$
+514,Donati,Central Coast,4,53,$$
+515,Keenan,Napa Valley,4.5,66,$$
+516,Vellum,Suisun Valley,5,1,$$
+517,Tiedemann,Napa Valley,5,1,
+518,De Novo,Dry Creek Valley,4,69,$$
+519,Ideology Cellars,Napa Valley,5,1,
+520,Double Eagle,Napa Valley,3,5,
+521,Aiken,Sta. Rita Hills,,,
+522,Bella,Dry Creek Valley,4,24,$$
+523,Sequoia Grove,Howell Mountain,4.5,285,$$
+524,La Follette,Sonoma Mountain,4,22,$$
+525,Alpha Omega,St. Helena,4,689,$$$
+526,Alpha Omega,Rutherford,4,689,$$$
+527,Carr,Sta. Rita Hills,4.5,29,$$
+528,Stewart,Napa Valley,4.5,29,$$
+529,La Crema,Sonoma Coast,4.5,70,$$
+530,Ideology Cellars,Russian River Valley,5,1,
+531,Ladera,Napa Valley,4,30,$$$
+532,Kale,Napa Valley,,,
+533,Clif Family,Howell Mountain,4.5,185,$$
+534,Curran,Santa Barbara County,5,6,$$
+535,Furthermore,Sonoma Coast,4.5,80,$$
+536,Paro,Carneros,,,
+537,Potek,Ballard Canyon,4.5,25,$$
+538,Edna Valley Vineyard,Central Coast,4,158,$$
+539,Joyce,Monterey County,4.5,74,$$
+540,Armitage,Santa Cruz Mountains,5,15,$$
+541,Carlson,Sta. Rita Hills,,,
+542,VGS Chateau Potelle,Napa Valley,4.5,42,$$$
+543,Transcendence,Ballard Canyon,5,9,$$
+544,Testarossa,Arroyo Seco,4,18,$$
+545,Little Giant,Napa Valley,4,209,$$
+546,Fiddlehead Cellars,Sta. Rita Hills,4.5,35,$$
+547,JCB,Russian River Valley,4,10,
+548,Jamie Slone Wines,Sta. Rita Hills,4.5,126,$$
+549,Galatea Effect,Sonoma Coast,5,29,$$
+550,Cast,Dry Creek Valley,4.5,54,$$
+551,Cordant,Santa Maria Valley,5,14,
+552,Krutz,St. Helena,5,2,$$
+553,Buttonwood,Sta. Rita Hills,4,157,$$
+554,Wellington,Dry Creek Valley,5,16,$$
+555,Cliff Lede,Napa Valley,4,201,$$
+556,Imagery,Russian River Valley,4,371,$$
+557,Treana,Central Coast,4.5,79,$$
+558,Riaza,Clarksburg,5,44,$$
+559,Etude,Sonoma Coast,4,158,$$
+560,Manzanita Creek,Sonoma Coast,4.5,9,$$
+561,Lucia,Santa Lucia Highlands,4.5,98,$$$$
+562,Aaron,Paso Robles,5,7,$$
+563,Couloir,Sonoma Coast,5,16,$$$$
+564,Rexford,Arroyo Seco,4,26,$$
+565,Joyce,Arroyo Seco,4.5,74,$$
+566,Inglenook,Napa Valley,4,332,$$$
+567,Hudson Vineyards,Napa Valley,5,2,
+568,Souverain,Russian River Valley,3.5,4,$$
+569,Francis Ford Coppola,Dry Creek Valley,4,767,$$
+570,Eric Kent,Carneros,5,6,$$
+571,Calstar Cellars,Sonoma Coast,1,1,
+572,Caymus,Napa Valley,4,482,$$$
+573,Jax,Calistoga,4,431,$$
